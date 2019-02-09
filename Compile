@@ -1,0 +1,1 @@
+g++ -Wall -g Smart_Logger_CAM.c -o Smart_Logger `pkg-config --cflags opencv` `pkg-config --libs opencv`
